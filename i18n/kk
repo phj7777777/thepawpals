@@ -1,0 +1,15 @@
+testimonial:{
+      title: "顾客推荐",
+      desc: "看看小老板们整么说？",
+    },
+    contacts: {
+      "address": "20, Somewhere in world",
+      "email": "hello@dizme.com",
+      "phn": "+6012-7307890"
+    },
+    contact:{
+      "title": "联系我们",
+      "address": "地址",
+      "email": "电邮",
+      "phn": "联系号码 & Whatsapp"
+    }
