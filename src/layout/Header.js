@@ -11,10 +11,8 @@ const Header = ({logo}) => {
             <div className="container">
                 <div className="inner">
                     <div className="logo">
-                        <a href="#">
-                            {logo && (
-                                <img src={logo ? logo : "img/logo/logo.png"} alt="image"/>
-                            )}
+                        <a href="#" style={{textDecoration:"none", color: 'black'}}>
+                           THE PAW PALS ❤
                         </a>
                     </div>
                     <div className="menu">
