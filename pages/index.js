@@ -26,9 +26,9 @@ const Index = () => {
       <Home />
       <About />
       <Service />
-      <Process />
+      {/*<Process />*/}
       <Portfolio />
-      <Testimonial />
+      {/*<Testimonial />*/}
       <Partners />
       {/*<News />*/}
       <Contact />

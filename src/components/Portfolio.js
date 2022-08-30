@@ -114,7 +114,7 @@ const Portfolio = () => {
                       <img src="img/thumbs/42-56.jpg" alt="image" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/1.jpg"
+                        data-img-url="img/portfolio/1.png"
                       />
                     </a>
                   </div>
@@ -138,7 +138,7 @@ const Portfolio = () => {
                       <img src="img/thumbs/42-34.jpg" alt="image" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/2.jpg"
+                        data-img-url="img/portfolio/2.png"
                       />
                     </a>
                   </div>
@@ -162,7 +162,7 @@ const Portfolio = () => {
                       <img src="img/thumbs/42-56.jpg" alt="image" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/3.jpg"
+                        data-img-url="img/portfolio/3.png"
                       />
                     </a>
                   </div>
@@ -179,11 +179,11 @@ const Portfolio = () => {
                     data-title="Scott Felix"
                     data-category="Popup"
                   >
-                    <a className="zoom" href="img/portfolio/5.jpg">
+                    <a className="zoom" href="img/portfolio/5.png">
                       <img src="img/thumbs/42-56.jpg" alt="image" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/5.jpg"
+                        data-img-url="img/portfolio/5.png"
                       />
                     </a>
                   </div>
@@ -200,11 +200,11 @@ const Portfolio = () => {
                     data-title="Art Stone"
                     data-category="Popup"
                   >
-                    <a className="zoom" href="img/portfolio/4.jpg">
+                    <a className="zoom" href="img/portfolio/4.png">
                       <img src="img/thumbs/42-34.jpg" alt="image" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/4.jpg"
+                        data-img-url="img/portfolio/4.png"
                       />
                     </a>
                   </div>
@@ -226,7 +226,7 @@ const Portfolio = () => {
                       <img src="img/thumbs/42-34.jpg" alt="image" />
                       <div
                         className="main"
-                        data-img-url="img/portfolio/6.jpg"
+                        data-img-url="img/portfolio/3.png"
                       />
                     </a>
                   </div>
